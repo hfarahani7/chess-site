@@ -1,0 +1,10 @@
+.tile{
+    width: 100px;
+    height: 100px;
+}
+.light{
+    background-color: #779556;
+}
+.dark{
+    background-color: #ebecd0;
+}
